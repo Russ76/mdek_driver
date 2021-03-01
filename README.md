@@ -1,5 +1,6 @@
 # mdek_driver
 MDEK 1001 - ROS nodes - serial, bluetooth, accelerometer
+Decawave DWM1001 Ultra Wide Band Radio
 
 This package is intended for anyone who would like to get started using the MDEK1001 kit by Decawave within the ROS framework.
 
